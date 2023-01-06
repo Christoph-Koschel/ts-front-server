@@ -1,0 +1,13 @@
+{
+    "name": "ts-front-server",
+    "author": "Christoph Koschel",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": [
+        {
+            "name": "code-database",
+            "version": "1.4.0",
+            "resolve": "http://github.com/Christoph-Koschel/code-database/releases/download/1.4.0/code-database-1.4.0.yapm.zip"
+        }
+    ]
+}
