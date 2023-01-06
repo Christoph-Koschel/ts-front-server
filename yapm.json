@@ -1,7 +1,7 @@
 {
     "name": "ts-front-server",
     "author": "Christoph Koschel",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "license": "MIT",
     "dependencies": [
         {
